@@ -4,9 +4,9 @@ const playAgain = document.querySelector(".play-again");
 
 let items = [];
 let imageSource = [
-  "images/rock.png",
-  "images/paper.png",
-  "images/scissors.png",
+  "image/rock.png",
+  "image/paper.png",
+  "image/scissors.png",
 ];
 let ids = ["rock", "paper", "scissors"];
 
