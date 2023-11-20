@@ -4,6 +4,6 @@
 <br/>
 <hr/>
 <section display="flex">
-<img src="image/img1.png" height="230px"/>
-<img src="image/img2.png" height="230px"/>
+<img src="image/img1.png" />
+<img src="image/img2.png"/>
 </section>
