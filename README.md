@@ -7,4 +7,4 @@
 <img src="image/img1.png" height="230px" />
 <img src="image/img2.png" height="230px"/>
 </section>
-<p align="center"><a href="https://negar-karimnejad.github.io/rock-paper-scissors/" target="_blank">🎮Let's play🎮</a></p>
+<h3 align="center"><a href="https://negar-karimnejad.github.io/rock-paper-scissors/" target="_blank">Let's play✌️</a></h3>
