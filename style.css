@@ -77,3 +77,13 @@ body {
 .play-again:hover {
   text-decoration: underline;
 }
+@media (max-width: 500px) {
+  .img {
+    width: 4rem;
+  }
+  .wrapper::before {
+    width: 5rem;
+    height: 2rem;
+    left: -0.5rem;
+  }
+}
